@@ -1,12 +1,12 @@
 # Játék leírás
 
 A játék a zöld zászló elindításával kezdődik.
-A játék célja, hogy minél több csillagot gyűjtsünk össze anélkül, hogy a kurzorral megérintenénk a macskát.
+A játék célja, hogy minél több csillagot gyűjtsünk össze anélkül, hogy a kurzorral megérintenénk a macskát, vagy a macska a falnak menne.
 Minden elért pontszámmal megnő a macska sebessége, így minél több pontot szerzel, annál nehezebb a játék.
 
 Macska kódja:
 
-![image](https://github.com/user-attachments/assets/80eb5cee-1e91-4579-accb-866ac22ac07b)
+![image](https://github.com/user-attachments/assets/0541b052-e7fa-4e7d-b8c6-3475ba87a83c)
 
 Csillag kódja:
 
